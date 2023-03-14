@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RProject</string>
+    <string name="news_content">
+        Natu, a visually stunning and emotionally resonant film, captivated audiences and critics alike with its powerful storytelling and breathtaking cinematography.
+        With its poignant exploration of themes such as love, loss, and cultural identity,
+        Natu has become a cinematic masterpiece. At the 95th Academy Awards,
+        Natu made history by winning multiple Oscars, including Best Picture,
+        Best Director, and Best Cinematography, cementing its place in the pantheon
+        of great films.
+    </string>
+</resources>
